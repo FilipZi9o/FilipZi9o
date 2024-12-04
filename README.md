@@ -1,5 +1,5 @@
 # 💫 About Me:
-:mortar_board: I am currently doing a Data Analytics Bootcamp at Spiced Academy<br>:pencil2: I have a background in UX and Product Design<br>:eyeglasses:I am curious and always happy to learn new things<br>:kimono: I am a white belt at Brasilian Jiu Jitsu<br>:envelope: Hit me up if you have any questions at: flpzigo@gmail.com
+:mortar_board: I just finished a Data Analytics Bootcamp at Spiced Academy<br>:pencil2: I have a background in UX and Product Design<br>:eyeglasses:I am curious and always happy to learn new things<br>:kimono: I am a white belt at Brasilian Jiu Jitsu<br>:envelope: Hit me up if you have any questions at: flpzigo@gmail.com
 
 
 # 💻 Tech Stack:
